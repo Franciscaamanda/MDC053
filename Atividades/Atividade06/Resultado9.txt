@@ -1,0 +1,11 @@
+id_aluno|nome_aluno|
+
+--------|----------|
+
+       1|JOSE      |
+
+       2|MARIA     |
+
+       3|BRUNO     |
+
+       4|CARLA     |

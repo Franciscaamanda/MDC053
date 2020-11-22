@@ -1,0 +1,7 @@
+id_disciplina|nome_disciplina  |carga_horaria|
+
+-------------|-----------------|-------------|
+
+            2|BANCO DE DADOS II|           60|
+
+            3|BANCO DE DADOS I |           60|

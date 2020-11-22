@@ -1,0 +1,1 @@
+delete from disciplina where id_disciplina = 2;
